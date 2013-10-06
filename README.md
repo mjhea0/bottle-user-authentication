@@ -11,3 +11,4 @@
 1. tests (as always)
 2. validation
 3. you tell me
+4. write blog post
