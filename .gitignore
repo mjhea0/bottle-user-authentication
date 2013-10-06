@@ -1,2 +1,4 @@
 *.pyc
-db/test.db
+test.db
+*DS_Store
+env
